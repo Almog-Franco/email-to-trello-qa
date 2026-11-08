@@ -1,0 +1,425 @@
+{
+  "labels": [
+    {
+      "id": "CHAT",
+      "name": "CHAT",
+      "messageListVisibility": "hide",
+      "labelListVisibility": "labelHide",
+      "type": "system"
+    },
+    {
+      "id": "SENT",
+      "name": "SENT",
+      "type": "system"
+    },
+    {
+      "id": "INBOX",
+      "name": "INBOX",
+      "type": "system"
+    },
+    {
+      "id": "IMPORTANT",
+      "name": "IMPORTANT",
+      "messageListVisibility": "hide",
+      "labelListVisibility": "labelHide",
+      "type": "system"
+    },
+    {
+      "id": "TRASH",
+      "name": "TRASH",
+      "messageListVisibility": "hide",
+      "labelListVisibility": "labelHide",
+      "type": "system"
+    },
+    {
+      "id": "DRAFT",
+      "name": "DRAFT",
+      "type": "system"
+    },
+    {
+      "id": "SPAM",
+      "name": "SPAM",
+      "messageListVisibility": "hide",
+      "labelListVisibility": "labelHide",
+      "type": "system"
+    },
+    {
+      "id": "CATEGORY_FORUMS",
+      "name": "CATEGORY_FORUMS",
+      "messageListVisibility": "hide",
+      "labelListVisibility": "labelHide",
+      "type": "system"
+    },
+    {
+      "id": "CATEGORY_UPDATES",
+      "name": "CATEGORY_UPDATES",
+      "messageListVisibility": "hide",
+      "labelListVisibility": "labelHide",
+      "type": "system"
+    },
+    {
+      "id": "CATEGORY_PERSONAL",
+      "name": "CATEGORY_PERSONAL",
+      "messageListVisibility": "hide",
+      "labelListVisibility": "labelHide",
+      "type": "system"
+    },
+    {
+      "id": "CATEGORY_PROMOTIONS",
+      "name": "CATEGORY_PROMOTIONS",
+      "messageListVisibility": "hide",
+      "labelListVisibility": "labelHide",
+      "type": "system"
+    },
+    {
+      "id": "CATEGORY_SOCIAL",
+      "name": "CATEGORY_SOCIAL",
+      "messageListVisibility": "hide",
+      "labelListVisibility": "labelHide",
+      "type": "system"
+    },
+    {
+      "id": "STARRED",
+      "name": "STARRED",
+      "type": "system"
+    },
+    {
+      "id": "UNREAD",
+      "name": "UNREAD",
+      "type": "system"
+    }
+  ],
+  "messages": [
+    {
+      "id": "194357ccd8ac5df7",
+      "threadId": "194357ccd8ac5df7",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: summarize the meeting",
+      "date": "Sun, 5 Jan 2025 08:02:32 +0000",
+      "body": "Please do so",
+      "labels": [
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "194357ca984a0614",
+      "threadId": "194357ca984a0614",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: summarize the meeting",
+      "date": "Sun, 5 Jan 2025 08:02:20 +0000",
+      "body": "For all of us",
+      "labels": [
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "194272df78557de0",
+      "threadId": "194272df78557de0",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Clean up mail",
+      "date": "Thu, 2 Jan 2025 13:21:44 +0000",
+      "body": "Please do so",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d50b335f2b4c",
+      "threadId": "1941d50b335f2b4c",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Coffee break",
+      "date": "Tue, 31 Dec 2024 15:23:27 +0000",
+      "body": "[cid:image001.png@01DB5BA8.B2AF7C40]",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d4e88288d93b",
+      "threadId": "1941d4e88288d93b",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "If you see it on board this is not good :(",
+      "date": "Tue, 31 Dec 2024 15:21:07 +0000",
+      "body": "",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d4e2da67713d",
+      "threadId": "1941d4e2da67713d",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Have a great year",
+      "date": "Tue, 31 Dec 2024 15:20:42 +0000",
+      "body": "This is urgent",
+      "labels": [
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d42355f19256",
+      "threadId": "1941d42355f19256",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Baking secrets",
+      "date": "Tue, 31 Dec 2024 15:07:39 +0000",
+      "body": "Do not miss it",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d41ea7c9e7cd",
+      "threadId": "1941d41ea7c9e7cd",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Baking secrets",
+      "date": "Tue, 31 Dec 2024 15:07:20 +0000",
+      "body": "New secret everyday",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d4096a6e1ba5",
+      "threadId": "1941d4096a6e1ba5",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Policy",
+      "date": "Tue, 31 Dec 2024 15:05:53 +0000",
+      "body": "A new policy is about to be released",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d3f0c91023d6",
+      "threadId": "1941d3c6bae8ce4c",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Create automation tests",
+      "date": "Tue, 31 Dec 2024 15:04:13 +0000",
+      "body": "Please, make sure to finish it on time this is super important",
+      "labels": [
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d3dfbc949173",
+      "threadId": "1941d3c6bae8ce4c",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Create automation tests",
+      "date": "Tue, 31 Dec 2024 15:03:02 +0000",
+      "body": "Write scripts\r\nSend the scripts for code review",
+      "labels": [
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d3d8c8ab2e73",
+      "threadId": "1941d3d8c8ab2e73",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Meeting: RND gathering",
+      "date": "Tue, 31 Dec 2024 15:02:34 +0000",
+      "body": "",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d3d1a6a70ca4",
+      "threadId": "1941d3d1a6a70ca4",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "End of the month Task:",
+      "date": "Tue, 31 Dec 2024 15:02:03 +0000",
+      "body": "This is good",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d3c6bae8ce4c",
+      "threadId": "1941d3c6bae8ce4c",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Create automation tests",
+      "date": "Tue, 31 Dec 2024 15:01:20 +0000",
+      "body": "Write scripts\r\nSend the scripts for code review",
+      "labels": [
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d3b231a0e7f2",
+      "threadId": "1941d3b231a0e7f2",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Product requirements",
+      "date": "Tue, 31 Dec 2024 14:59:55 +0000",
+      "body": "Review and provide feedback",
+      "labels": [
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d1134252da26",
+      "threadId": "1941d1134252da26",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Pay Rent",
+      "date": "Tue, 31 Dec 2024 14:14:07 +0000",
+      "body": "",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941d0f1754aa850",
+      "threadId": "1941d0f1754aa850",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Sync with the new employees",
+      "date": "Tue, 31 Dec 2024 14:11:49 +0000",
+      "body": "Please do so",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941ce4d15b520a5",
+      "threadId": "1941ce4d15b520a5",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Review Linda's code",
+      "date": "Tue, 31 Dec 2024 13:25:38 +0000",
+      "body": "",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941ce078d6291e7",
+      "threadId": "1941ce078d6291e7",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Celebrate the New Year",
+      "date": "Tue, 31 Dec 2024 13:20:54 +0000",
+      "body": "Don’t forget to invite all of your friends",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941cdf604791dae",
+      "threadId": "1941cdf604791dae",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Policy",
+      "date": "Tue, 31 Dec 2024 13:19:40 +0000",
+      "body": "",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941cdd3b4da8ea7",
+      "threadId": "1941cdd3b4da8ea7",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Clean up mail",
+      "date": "Tue, 31 Dec 2024 13:17:21 +0000",
+      "body": "",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941cdcecdcab58a",
+      "threadId": "1941cdcecdcab58a",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Hi! and welcome to your new environment",
+      "date": "Tue, 31 Dec 2024 13:17:01 +0000",
+      "body": "Suspicious link",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941cdc620ec9a96",
+      "threadId": "1941cdc620ec9a96",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Meeting: schedule some time for 1:1",
+      "date": "Tue, 31 Dec 2024 13:16:26 +0000",
+      "body": "Should take about 1 hour",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941cdbcf04f686f",
+      "threadId": "1941cdbcf04f686f",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: send a reminder to relevant",
+      "date": "Tue, 31 Dec 2024 13:15:49 +0000",
+      "body": "They need to arrive on time",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941cdb6307de0b0",
+      "threadId": "1941cdb6307de0b0",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: read the policies",
+      "date": "Tue, 31 Dec 2024 13:15:21 +0000",
+      "body": "Read the policies and confirm",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    },
+    {
+      "id": "1941cdb09349bcf5",
+      "threadId": "1941cdb09349bcf5",
+      "from": "Dana Levi <dana.levi@example.com>",
+      "subject": "Task: Test the new fix version",
+      "date": "Tue, 31 Dec 2024 13:14:57 +0000",
+      "body": "Please make sure finish it by EOD",
+      "labels": [
+        "UNREAD",
+        "CATEGORY_PERSONAL",
+        "INBOX"
+      ]
+    }
+  ]
+}

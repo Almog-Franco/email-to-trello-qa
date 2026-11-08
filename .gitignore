@@ -1,0 +1,9 @@
+.venv
+__pycache__
+.idea
+
+# Authenticated session file (contains cookies/tokens)
+resources/auth_state.json
+
+# Local credentials
+.env
